@@ -31,11 +31,7 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/birthdayflad.png</appicon>
 </photography>
 
-<photography>
-<apptitle>Miss You Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.missyouphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/missyouflad.png</appicon>
-</photography>
+
 
    
 <photography>
@@ -43,6 +39,13 @@
 <applink>market://details?id=com.dreamystudios.villagephotoframes</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/villageflad.png</appicon>
 </photography>
+   
+   <photography>
+<apptitle>Miss You Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.missyouphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/missyouflad.png</appicon>
+</photography>
+   
    
  <photography>
 <apptitle>Diwali Photo Frames</apptitle>
