@@ -14,6 +14,18 @@
 </photography>
    
    <photography>
+<apptitle>Durga Mata Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.durgamataphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/durgamataflad.png</appicon>
+</photography>
+   
+    <photography>
+<apptitle>Navratri Dual Frames</apptitle>
+<applink>market://details?id=navratridualframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/navratridualflad.png</appicon>
+</photography>
+   
+   <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/gardenflad.png</appicon>
