@@ -1,85 +1,33 @@
 <photographyapps>  
 
-
-   <photography>
-<apptitle>Ganesh Chaturthi Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.ganeshchaturthiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/ganeshflad.png</appicon>
-</photography>
-
-   <photography>
-<apptitle>Dussehra Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.dussehraphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/dussehraflad.png</appicon>
-</photography>
-   
-
-   
-   <photography>
-<apptitle>Durga Mata Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.durgamataphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/durgamataflad.png</appicon>
-</photography>
-   
-   
-   <photography>
-<apptitle>Navratri Dual Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.navratridualframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/navratridualflad.png</appicon>
-</photography>
-   
-   <photography>
-<apptitle>Garden Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/gardenflad.png</appicon>
-</photography>
-   
-   
-      <photography>
-<apptitle>Kiss Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.kissphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/kissflad.png</appicon>
-</photography>
-
-   <photography>
-<apptitle>Ambedkar Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.ambetkarjayantiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/ambedkarflad.png</appicon>
-</photography>
-   
-   <photography>
-<apptitle>Women Bikini Suit</apptitle>
-<applink>market://details?id=com.dreamystudios.womenbikiniphotosuit</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/bikinisuitad.png</appicon>
-</photography>
-
-<photography>
-<apptitle>Jumma Mubarak Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.jummahmubarakphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/jummamubarakflad.png</appicon>
-</photography>
-
-   
-   
  <photography>
-<apptitle>Wedding Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.weddingphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/weddingflad.png</appicon>
+<apptitle>Good Morning Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.goodmorningphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/goodmorningflad.png</appicon>
 </photography>
-   
-<photography>
-<apptitle>Women Designer Sarees</apptitle>
-<applink>market://details?id=com.dreamystudios.womendesignersareesuit</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/designesareesuitad.png</appicon>
-</photography>
-   
-<photography>
-<apptitle>పుట్టినరోజు శుభాకాంక్షలు</apptitle>
-<applink>market://details?id=com.dreamystudios.telugubirthdayphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/telugubirthdayflad.png</appicon>
-</photography>
-   
 
+   <photography>
+<apptitle>Waterfall Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.waterfallphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/waterfallflad.png</appicon>
+</photography>
+   
+    <photography>
+<apptitle>Good Night Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.goodnightphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/goodnightflad.png</appicon>
+</photography>
 
+   <photography>
+<apptitle>Buddha Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.buddhaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/buddhaflad.png</appicon>
+</photography>
+  
+   <photography>
+<apptitle>Birthday Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.makarsankrantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/birthdayflad.png</appicon>
+</photography>
 
 </photographyapps>
