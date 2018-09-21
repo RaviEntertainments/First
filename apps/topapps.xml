@@ -8,6 +8,12 @@
 </photography>
 
    <photography>
+<apptitle>Dussehra Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.dussehraphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/dussehraflad.png</appicon>
+</photography>
+   
+   <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/gardenflad.png</appicon>
@@ -39,11 +45,6 @@
 </photography>
 
    
-<photography>
-<apptitle>Dussehra Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.dussehraphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/dussehraflad.png</appicon>
-</photography>
    
  <photography>
 <apptitle>Wedding Photo Frames</apptitle>
