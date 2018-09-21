@@ -1,5 +1,11 @@
 <photographyapps>  
 
+  <photography>
+<apptitle>Navratri Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.navratriphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/navratriflad.png</appicon>
+</photography>
+ 
  <photography>
 <apptitle>Good Morning Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.goodmorningphotoframes</applink>
