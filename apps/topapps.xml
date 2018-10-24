@@ -3,26 +3,27 @@
 
 
    <photography>
-<apptitle>Dussehra Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.dussehraphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/dussehraflad.png</appicon>
+<apptitle>దీపావళి శుభాకాంక్షలు</apptitle>
+<applink>market://details?id=com.dreamystudios.telugudiwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/telugudiwaliflad.png</appicon>
 </photography>
    
+   <photography>  
+<apptitle>Diwali Wishes,Greetings</apptitle>
+<applink>market://details?id=com.dreamystudios.diwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalipf.png</appicon>
+</photography>
   
-      <photography>
-<apptitle>Navratri Dual  Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.navratridualframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/navratridualflad.png</appicon>
+     <photography>
+     
+<apptitle>Happy Diwali</apptitle>
+<applink>market://details?id=com.dreamystudios.happydiwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/happydiwaliflad.png</appicon>
 </photography>
-   
-   <photography>
-<apptitle>Durga Mata Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.durgamataphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/durgamataflad.png</appicon>
-</photography>
+  
+ <photography>
  
 
-   
    <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
