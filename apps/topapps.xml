@@ -1,11 +1,5 @@
 <photographyapps>  
 
-<photography>
-<apptitle>Diwali Wishes</apptitle>
-<applink>market://details?id=com.dreamystudios.diwaliphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalipf.png</appicon>
-</photography>
-
 <photography>   
 <apptitle>దీపావళి శుభాకాంక్షలు</apptitle>
 <applink>market://details?id=com.dreamystudios.telugudiwaliphotoframes</applink>
