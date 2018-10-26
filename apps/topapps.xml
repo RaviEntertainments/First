@@ -1,4 +1,4 @@
-﻿<photographyapps>  
+<photographyapps>  
 
 <photography>  
 <apptitle>Diwali Wishes</apptitle>
@@ -18,8 +18,6 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/happydiwaliflad.png</appicon>
 </photography>
   
- 
-
 
    <photography>
 <apptitle>Garden Photo Frames</apptitle>
@@ -52,8 +50,7 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/jummamubarakflad.png</appicon>
 </photography>
 
-   
-   
+  
  <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.weddingphotoframes</applink>
@@ -72,7 +69,4 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/telugubirthdayflad.png</appicon>
 </photography>
    
-
-
-
 </photographyapps>
