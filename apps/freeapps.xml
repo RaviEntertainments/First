@@ -18,13 +18,35 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalidual.png</appicon>
 </photography>
   
-     <photography>
-     
+ <photography>   
 <apptitle>Diwali Saree Montage</apptitle>
 <applink>market://details?id=com.dreamystudios.diwaliwomensareesuit</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalisaree.png</appicon>
 </photography>
   
+  <photography>   
+<apptitle>Christmas Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.christmasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/christmasflad.png</appicon>
+</photography>
+  
+    <photography>   
+<apptitle>Christmas Greeting Cards</apptitle>
+<applink>market://details?id=com.dreamystudios.christmasgreetingcards</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/christmasgreetflad.png</appicon>
+</photography>
+  
+    <photography>   
+<apptitle>New Year Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.newyearphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/newyearflad.png</appicon>
+</photography>
+  
+    <photography>   
+<apptitle>New Year Greeting Cards</apptitle>
+<applink>market://details?id=com.dreamystudios.newyeargreetingcards</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/newyeargreetflad.png</appicon>
+</photography>
    <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
