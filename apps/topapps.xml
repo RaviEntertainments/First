@@ -23,7 +23,48 @@
 <applink>market://details?id=com.dreamystudios.happydiwaliphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/happydiwaliflad.png</appicon>
 </photography>
-
+  
+<photography>
+<apptitle>Beach Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.beachphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/beachflad.png</appicon>
+</photography>
+  
+  <photography>
+<apptitle>Winter Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.winterphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/winterflad.png</appicon>
+</photography>
+  
+  <photography>
+<apptitle>Village Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.villagephotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/villageflad.png</appicon>
+</photography>
+  
+  <photography>
+<apptitle>TajMahal Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.tajmahalphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/tajmahalflad.png</appicon>
+</photography>
+  
+    <photography>
+<apptitle>Rainbow Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.rainbowphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/rainbowflad.png</appicon>
+</photography>
+  
+  <photography>
+<apptitle>Coffee Mug Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.coffeemugphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/coffemugflad.png</appicon>
+</photography>
+  
+  <photography>
+<apptitle>Birthday Cake Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.birthdaycakephotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/birthdaycakeflad.png</appicon>
+</photography>
 <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
