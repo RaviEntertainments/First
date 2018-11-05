@@ -1,5 +1,11 @@
 <photographyapps>  
-
+  
+<photography>
+<apptitle>Wedding Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.weddingphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/weddingflad.png</appicon>
+</photography>
+  
 <photography>
 <apptitle>Diwali Wishes</apptitle>
 <applink>market://details?id=com.dreamystudios.diwaliphotoframes</applink>
@@ -50,11 +56,7 @@
 </photography>
 
   
-<photography>
-<apptitle>Wedding Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.weddingphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/weddingflad.png</appicon>
-</photography>
+
    
 <photography>
 <apptitle>Women Designer Sarees</apptitle>
