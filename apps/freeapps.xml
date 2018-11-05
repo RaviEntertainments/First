@@ -25,18 +25,36 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalisaree.png</appicon>
 </photography>
   
+   <photography>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.gardenphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/gardenflad.png</appicon>
+</photography>
+  
+    <photography>
+<apptitle>Nature Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.naturephotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/natureflad.png</appicon>
+</photography>
+  
+   <photography>
+<apptitle>Waterfall Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.waterfallphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/waterfallflad.png</appicon>
+</photography>
+  
+     <photography>
+<apptitle>Birthday Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.makarsankrantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/birthdayflad.png</appicon>
+</photography>
+  
  <photography>
 <apptitle>Good Morning Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.goodmorningphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/goodmorningflad.png</appicon>
 </photography>
 
-   <photography>
-<apptitle>Waterfall Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.waterfallphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/waterfallflad.png</appicon>
-</photography>
-   
     <photography>
 <apptitle>Good Night Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.goodnightphotoframes</applink>
@@ -49,10 +67,6 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/buddhaflad.png</appicon>
 </photography>
   
-   <photography>
-<apptitle>Birthday Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.makarsankrantiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/birthdayflad.png</appicon>
-</photography>
+
 
 </photographyapps>
