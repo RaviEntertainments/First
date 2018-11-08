@@ -1,27 +1,9 @@
 <photographyapps>  
-
-  <photography>
-<apptitle>Diwali Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.diwaliphotoframesnew</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwaliflad.png</appicon>
-</photography>
   
-   <photography>
-<apptitle>Diwali Couple Photo Suit</apptitle>
-<applink>market://details?id=com.dreamystudios.coupletraditionalphotomontage</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalicouplephotosuit.png</appicon>
-</photography>
-   <photography>
-     
-<apptitle>Diwali Dual Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.diwalidualframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalidual.png</appicon>
-</photography>
-  
- <photography>   
-<apptitle>Diwali Saree Montage</apptitle>
-<applink>market://details?id=com.dreamystudios.diwaliwomensareesuit</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/diwalisaree.png</appicon>
+    <photography>
+<apptitle>Nature Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.naturephotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/natureflad.png</appicon>
 </photography>
   
   <photography>   
@@ -53,11 +35,7 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/gardenflad.png</appicon>
 </photography>
   
-    <photography>
-<apptitle>Nature Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.naturephotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/natureflad.png</appicon>
-</photography>
+
   
    <photography>
 <apptitle>Waterfall Photo Frames</apptitle>
