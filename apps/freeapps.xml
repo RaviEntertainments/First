@@ -1,11 +1,6 @@
 <photographyapps>  
   
-    <photography>
-<apptitle>Nature Photo Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.naturephotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/natureflad.png</appicon>
-</photography>
-  
+ 
   <photography>   
 <apptitle>Christmas Dual Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.christmasdualframes</applink>
@@ -26,7 +21,11 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/gardenflad.png</appicon>
 </photography>
   
-
+ <photography>
+<apptitle>Nature Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.naturephotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/natureflad.png</appicon>
+</photography>
   
    <photography>
 <apptitle>Waterfall Photo Frames</apptitle>
