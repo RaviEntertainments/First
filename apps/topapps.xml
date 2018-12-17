@@ -43,6 +43,24 @@
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/newyeargreetflad.png</appicon>
 </photography>
   
+  <photography>   
+<apptitle>Ponal Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.pongalphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/pongalpf.PNG</appicon>
+</photography>
+  
+    <photography>   
+<apptitle>Sankranti Photo Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.bhogisankrantipongalphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/sankrantipf.PNG</appicon>
+</photography>
+  
+    <photography>   
+<apptitle>Makar Sankranti Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.sankrantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/makarpf.png</appicon>
+</photography>
+  
     <photography>
 <apptitle>Winter Photo Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.winterphotoframes</applink>
