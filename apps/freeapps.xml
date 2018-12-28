@@ -1,13 +1,5 @@
 <photographyapps>  
-  
- 
-  <photography>   
-<apptitle>Christmas Dual Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.christmasdualframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/christmasdualflad.png</appicon>
-</photography>
-  
-   
+    
     <photography>   
 <apptitle>New Year Dual Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.newyeardualframes</applink>
