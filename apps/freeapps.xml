@@ -5,7 +5,12 @@
 <applink>market://details?id=com.dreamystudios.newyeardualframes</applink>
 <appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/newyeardualflad.png</appicon>
 </photography>
-  
+    
+   <photography>   
+<apptitle>Makar Sankranti Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.sankrantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/makarpf.png</appicon>
+</photography>
   
    <photography>
 <apptitle>Garden Photo Frames</apptitle>
