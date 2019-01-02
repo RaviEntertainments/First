@@ -1,11 +1,5 @@
 <photographyapps>  
     
-    <photography>   
-<apptitle>New Year Dual Frames</apptitle>
-<applink>market://details?id=com.dreamystudios.newyeardualframes</applink>
-<appicon>https://raw.githubusercontent.com/Dreamystudios/First/master/icons/newyeardualflad.png</appicon>
-</photography>
-    
    <photography>   
 <apptitle>Makar Sankranti Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.sankrantiphotoframes</applink>
